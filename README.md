@@ -24,3 +24,4 @@ Please make sure to run `npm run lint` command before sending your PR!
 ## License
 [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
 https://win8-y6yf.vercel.app/
+https://win8-y6yf.vercel.app/Sequencer.html
